@@ -53,3 +53,10 @@
     margin-left: 310px;
     font-size: 20px;
 }
+
+.pass{
+    color: green;
+    margin-left: 430px;
+    background-color: rgb(194, 147, 147);
+    width: 150px;
+}
